@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.UI.dll",
+  "latest": "1565331723-177CDFB6D167A7FC87FF756A911F588D-1",
+  "builds": [
+    {
+      "key": "1565331723-177CDFB6D167A7FC87FF756A911F588D-1",
+      "timestamp": "1565331723",
+      "pdb_guid": "177CDFB6D167A7FC87FF756A911F588D",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1565331723-177CDFB6D167A7FC87FF756A911F588D-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
